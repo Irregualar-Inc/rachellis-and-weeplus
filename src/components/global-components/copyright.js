@@ -10,7 +10,7 @@ class CopyRight extends Component {
             <div className="col-md-6 col-12">
               <div className="ltn__copyright-design clearfix">
                 <p>
-                  All Rights Reserved @ Company{" "}
+                  All Rights Reserved @ RACHELLIS AND WEE-plus GROUP{" "}
                   <span className="current-year" />
                 </p>
               </div>
