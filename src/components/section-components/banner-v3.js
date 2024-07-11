@@ -45,12 +45,12 @@ class BannerV3 extends Component {
                           </p>
                         </div>
                         <div className="btn-wrapper animated go-top">
-                          <Link
-                            to="/contact"
+                          <a
+                            href="mailto:info@rachellisandweeplusgroup.com?Subject=Enquiry"
                             className="theme-btn-1 btn btn-effect-1"
                           >
                             Make An Enquiry
-                          </Link>
+                          </a>
                         </div>
                       </div>
                     </div>
