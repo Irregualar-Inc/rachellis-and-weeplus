@@ -7,7 +7,6 @@ export const NavbarV3 = () => {
    const navbar = [
       { name: "Home", href: "/" },
       { name: "About Us", href: "#about" },
-      // { name: "Contact Us", href: "#" },
       { name: "Privacy & Policy", href: "#" },
    ];
 
@@ -144,14 +143,6 @@ export const NavbarV3 = () => {
                   </div>
                   <button className="ltn__utilize-close">×</button>
                </div>
-               {/* <div className="ltn__utilize-menu-search-form">
-            <form action={"#"}>
-              <input type="text" placeholder="Search..." />
-              <button>
-                <i className="fas fa-search" />
-              </button>
-            </form>
-          </div> */}
                <div className="ltn__utilize-menu">
                   <ul>
                      {navbar.map((item, idx) => {
@@ -162,10 +153,6 @@ export const NavbarV3 = () => {
                            </li>
                         );
                      })}
-
-                     <li>
-                        <Link to="/contact">Contact</Link>
-                     </li>
                   </ul>
                </div>
                <div className="ltn__social-media-2">
