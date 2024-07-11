@@ -1,10 +1,7 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
-import Social from "../section-components/social";
 
 class TopBar extends Component {
   render() {
-    let publicUrl = process.env.PUBLIC_URL + "/";
     return (
       <div>
         <div className="ltn__header-top-area section-bg-6">
