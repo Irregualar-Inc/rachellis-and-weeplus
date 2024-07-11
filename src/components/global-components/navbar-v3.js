@@ -104,7 +104,7 @@ export const NavbarV3 = () => {
                                        );
                                     })}
                                     <li className="special-link">
-                                       <a href="mailto:info@rachellisandweeplusgroup.com?Subject=Enquiry">Make An Enquiry</a>
+                                       <a href="mailto:info@rachellisandweeplusgroup.com?subject=Enquiry">Make An Enquiry</a>
                                     </li>
                                  </ul>
                               </div>
