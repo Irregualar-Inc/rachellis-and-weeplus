@@ -1,8 +1,8 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 const FeaturesV1 = ({ customClass }) => {
-  let publicUrl = process.env.PUBLIC_URL + "/";
+  // let publicUrl = process.env.PUBLIC_URL + "/";
 
   return (
     <div className={customClass} id="about">

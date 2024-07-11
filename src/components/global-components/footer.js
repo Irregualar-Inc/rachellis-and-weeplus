@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Link } from "react-router-dom";
 import Social from "../section-components/social";
 import Copyright from "./copyright";
 
